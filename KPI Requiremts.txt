@@ -1,0 +1,33 @@
+🔎 Basic Analysis
+1.	Total Revenue – Total revenue sum panna.
+2.	Number of Orders – OrderID count panna.
+3.	Unique Products Sold – Product unique count panna.
+4.	Unique Customers – Customer Location unique count panna.
+________________________________________
+📅 Date-Based Analysis
+1.	Monthly/Weekly/Quarterly Revenue – Date column-la year, month, quarter split panni analyze panna.
+2.	Peak Sales Period – Which month/week sales adhigama iruku-nu analyze panna.
+3.	Year-over-Year Growth – Each year-la revenue compare panna.
+________________________________________
+🛒 Product-Based Analysis
+1.	Top-Selling Products – Revenue or Order count basis-la top products analyze panna.
+2.	Low-Performing Products – Least revenue or order count basis-la identify panna.
+3.	Category-Wise Performance – Category-la breakdown panna. Example: Electronics, Clothing, etc.
+4.	Product Seasonality – Certain products epdi seasonal demand irukunu analyze panna.
+________________________________________
+🌍 Customer Location-Based Analysis
+1.	Top Locations by Revenue – Which location-la high revenue generate aaguthu-nu analyze panna.
+2.	Customer Concentration – Which location-la more orders varuthu-nu analyze panna.
+3.	Revenue per Customer – Per location basis-la average revenue calculate panna.
+________________________________________
+📊 Profitability & Trends
+1.	Revenue Growth Trend – Over time revenue increase aaguthu/kuraiyuthu-nu analyze panna.
+2.	Contribution by Category – Total revenue-la ethu contribution adhigama-nu analyze panna.
+3.	Customer Retention – Repeat orders irukaa-nu check panna (if possible).
+________________________________________
+🔥 Example Questions:
+•	Top 5 products by revenue enna?
+•	Last 3 months-la top-performing category enna?
+•	Peak sales period enna month-la?
+•	Revenue increase or decrease last year-oda compare panna?
+•	Top 3 customer locations by revenue enna?
